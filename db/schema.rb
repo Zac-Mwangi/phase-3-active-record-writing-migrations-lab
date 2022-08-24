@@ -17,5 +17,4 @@ ActiveRecord::Schema.define(version: 3) do
     t.integer "grade"
     t.datetime "birthdate"
   end
-
 end
