@@ -1,0 +1,5 @@
+Student.create(name:"olaa")
+Student.create(name:"olaa")
+Student.create(name:"olaa")
+Student.create(name:"olaa")
+Student.create(name:"olaa")
